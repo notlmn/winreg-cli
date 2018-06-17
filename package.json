@@ -1,0 +1,31 @@
+{
+  "name": "winreg",
+  "version": "0.0.1",
+  "author": "Laxman Damera <notlmn@outlook.com>",
+  "description": "Command line tool that provides a fluent API for modifying Windows registry",
+  "license": "MIT",
+  "repository": "https://github.com/notlmn/winreg-cli.git",
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "*.js"
+  ],
+  "scripts": {
+    "lint": "xo"
+  },
+  "dependencies": {
+    "winreg": "^1.2.4",
+    "yargs": "^11.0.0"
+  },
+  "bin": "cli.js",
+  "devDependencies": {
+    "xo": "^0.21.1"
+  },
+  "keywords": [
+    "cli",
+    "cli-app",
+    "windows",
+    "registry"
+  ]
+}
