@@ -1,5 +1,5 @@
 {
-  "name": "winreg",
+  "name": "winreg-cli",
   "version": "0.0.1",
   "author": "Laxman Damera <notlmn@outlook.com>",
   "description": "Command line tool that provides a fluent API for modifying Windows registry",
