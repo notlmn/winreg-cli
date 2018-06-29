@@ -2,6 +2,9 @@
 
 > Command line tool that provides a fluent API for modifying Windows registry
 
+![npm](https://img.shields.io/npm/v/winreg-cli.svg)
+![license](https://img.shields.io/github/license/notlmn/winreg-cli.svg)
+
 ```
 C:\> winreg
 winreg [command]
